@@ -441,7 +441,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 409347195860517835}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3cab52e80f347fa48b17303443bc6662, type: 3}
   m_Name: 
@@ -477,6 +477,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idleClip: {fileID: 7400000, guid: e52be2fa48716194ea1d9d76686005f8, type: 3}
+--- !u!114 &409347195860517840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 409347195860517835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d5ed5ffc3363d48a30c0e8140d1ddd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chanAnimationSO: {fileID: 11400000, guid: 4b99187f59a324545ae0480b992d8c8f, type: 2}
 --- !u!114 &409347195860517841
 MonoBehaviour:
   m_ObjectHideFlags: 0

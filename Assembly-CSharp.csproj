@@ -64,15 +64,19 @@
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\FaceUpdate.cs" />
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\SplashScreen\Scripts\SplashScreen.cs" />
     <Compile Include="Assets\AnimationPlayable\PlayBlendTreeAnimation.cs" />
+    <Compile Include="Assets\AnimationPlayable\PlayableAddAnimatorController.cs" />
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\SpringManager.cs" />
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\RandomWind.cs" />
-    <Compile Include="Assets\AnimationPlayable\AnimationPlayable.cs" />
+    <Compile Include="Assets\AnimationPlayable\ChanAnimationPlayable.cs" />
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\IKCtrlRightHand.cs" />
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\IdleChanger.cs" />
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\ThirdPersonCamera.cs" />
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\SpringBone.cs" />
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\AutoBlink.cs" />
-    <Compile Include="Assets\AnimationPlayable\PlayableAddAnimatorController.cs" />
+    <Compile Include="Assets\ScriptableObject\ChanAnimationSO.cs" />
+    <Compile Include="Assets\ScriptableObject\IListToDict.cs" />
+    <Compile Include="Assets\AnimationPlayable\ChanAnimationController.cs" />
+    <Compile Include="Assets\AnimationPlayable\BasePlayableController.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
