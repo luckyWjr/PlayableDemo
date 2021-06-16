@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAnimation-Tests", "SimpleAnimation-Tests.csproj", "{F481B984-9313-3FEF-96E8-26960BBCBF97}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{97892CCC-07C8-B79E-94E2-EB5E123F8EEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAnimation-Tests", "SimpleAnimation-Tests.csproj", "{F481B984-9313-3FEF-96E8-26960BBCBF97}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAnimationComponent", "SimpleAnimationComponent.csproj", "{3068F6F2-7669-A611-288C-FE36A75F2D6E}"
 EndProject
@@ -23,14 +23,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F481B984-9313-3FEF-96E8-26960BBCBF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F481B984-9313-3FEF-96E8-26960BBCBF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F481B984-9313-3FEF-96E8-26960BBCBF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F481B984-9313-3FEF-96E8-26960BBCBF97}.Release|Any CPU.Build.0 = Release|Any CPU
 		{97892CCC-07C8-B79E-94E2-EB5E123F8EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{97892CCC-07C8-B79E-94E2-EB5E123F8EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97892CCC-07C8-B79E-94E2-EB5E123F8EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97892CCC-07C8-B79E-94E2-EB5E123F8EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F481B984-9313-3FEF-96E8-26960BBCBF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F481B984-9313-3FEF-96E8-26960BBCBF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F481B984-9313-3FEF-96E8-26960BBCBF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F481B984-9313-3FEF-96E8-26960BBCBF97}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3068F6F2-7669-A611-288C-FE36A75F2D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3068F6F2-7669-A611-288C-FE36A75F2D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3068F6F2-7669-A611-288C-FE36A75F2D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
