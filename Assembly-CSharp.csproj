@@ -77,6 +77,9 @@
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\SpringBone.cs" />
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\AutoBlink.cs" />
     <Compile Include="Assets\Scripts\Component\AnimationPlayable\BasePlayableController.cs" />
+    <Compile Include="Assets\Scripts\CustomPlayable\AnimationBlendPlayable.cs" />
+    <Compile Include="Assets\Scripts\CustomTimeline\Track\AnimationBlendClip.cs" />
+    <Compile Include="Assets\Scripts\CustomTimeline\Clip\AnimationBlendTrack.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
